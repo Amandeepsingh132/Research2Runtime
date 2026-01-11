@@ -1,6 +1,6 @@
-# Research2Code
+# Research2Runtime
 
-Research2Code is a full-stack application that automates the process of converting research papers into executable code. It extracts key information from uploaded PDF papers, generates PyTorch code to reproduce the described models, executes the code in a sandboxed environment, and verifies the authenticity of the paper based on training loss analysis.
+Research2Runtime is a full-stack application that automates the process of converting research papers into executable code. It extracts key information from uploaded PDF papers, generates PyTorch code to reproduce the described models, executes the code in a sandboxed environment, and verifies the authenticity of the paper based on training loss analysis.
 
 ## Features
 
@@ -91,7 +91,7 @@ The backend provides a single endpoint for processing papers:
 ## Project Structure
 
 ```
-Research2Code/
+Research2Runtime/
 ├── backend/
 │   ├── app.py              # Main FastAPI application
 │   ├── agent.py            # AI agents for research, coding, and verification

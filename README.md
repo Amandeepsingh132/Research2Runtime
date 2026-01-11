@@ -1,6 +1,7 @@
 # Research2Runtime
 
 Research2Runtime is a full-stack application that automates the process of converting research papers into executable code. It extracts key information from uploaded PDF papers, generates PyTorch code to reproduce the described models, executes the code in a sandboxed environment, and verifies the authenticity of the paper based on training loss analysis.
+![cursorful-video-1768070363095-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/79bf752d-6fb7-4ad1-89e5-d8f75a30dc76)
 
 ## Features
 
